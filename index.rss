@@ -2,6 +2,7 @@
 <title>Steven Walter's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Traveler (Level 1)</title><description>Streamed changes between another rcs with git svn or git p4.</description></item>
 <item><title>Apprentice Architect (Level 1)</title><description>Created a new repository with git init.</description></item>
 <item><title>Apprentice Blacksmith (Level 1)</title><description>Created a branch using git checkout -b.</description></item>
 <item><title>Cherry Picker</title><description>Used git cherry-pick to add a sha from another branch into the current branch.</description></item>

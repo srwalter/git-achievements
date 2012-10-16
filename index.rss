@@ -2,6 +2,7 @@
 <title>Steven Walter's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Master Plumber (Level 10)</title><description>Use the internal plumbing commands of git.</description></item>
 <item><title>Merchant (Level 5)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Archivist (Level 4)</title><description>Prepare each commit with its patch in one file per commit with git format-patch</description></item>
 <item><title>Master Plumber (Level 9)</title><description>Use the internal plumbing commands of git.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Master Historian (Level 8)</title><description>Investigate the commit log using git log.</description></item>
 <item><title>Blacksmith (Level 5)</title><description>Created a branch using git checkout -b.</description></item>
 <item><title>Apprentice Goldsmith (Level 2)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
-<item><title>Plumber (Level 6)</title><description>Use the internal plumbing commands of git.</description></item>
 </channel></rss>

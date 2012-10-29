@@ -2,6 +2,7 @@
 <title>Steven Walter's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Pilgrim (Level 2)</title><description>Performed a rebase using git rebase --onto.</description></item>
 <item><title>Master Fisherman (Level 7)</title><description>Look for specified patterns in the current repository with git grep.</description></item>
 <item><title>Master Plumber (Level 11)</title><description>Use the internal plumbing commands of git.</description></item>
 <item><title>Master Plumber (Level 10)</title><description>Use the internal plumbing commands of git.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Miller (Level 5)</title><description>Add only part of a file to the stage 130 times with git add -p.</description></item>
 <item><title>Butcher (Level 5)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
 <item><title>Master Stone Mason (Level 7)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
-<item><title>Master Historian (Level 8)</title><description>Investigate the commit log using git log.</description></item>
 </channel></rss>

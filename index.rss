@@ -2,6 +2,7 @@
 <title>Steven Walter's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Pilgrim (Level 3)</title><description>Performed a rebase using git rebase --onto.</description></item>
 <item><title>Master Author (Level 9)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Archivist (Level 5)</title><description>Prepare each commit with its patch in one file per commit with git format-patch</description></item>
 <item><title>Master Collector (Level 7)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
@@ -21,5 +22,4 @@
 <item><title>Master Plumber (Level 7)</title><description>Use the internal plumbing commands of git.</description></item>
 <item><title>Presenter (Level 6)</title><description>Shows one or more objects (blobs, trees, tags and commits) with git show</description></item>
 <item><title>Gipsy (Level 5)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
-<item><title>Apprentice Cathedral Worker (Level 2)</title><description>Cloned submodule repository and checked out commits specified by superproject.</description></item>
 </channel></rss>
